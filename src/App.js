@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        {console.log('ok')}
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
